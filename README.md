@@ -22,7 +22,7 @@ This project implements a game that interacts with your body movements using a w
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Body-Gesture-Game-Control.git
+    git clone https://github.com/chriz-ty/Body-Gesture-Game-Control.git
     ```
 
 2. Navigate to the project directory:
